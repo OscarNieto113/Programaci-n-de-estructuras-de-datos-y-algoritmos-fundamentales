@@ -1,0 +1,69 @@
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+Case 1: 1 ports not reachable from port Balboa with MNP = 2. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -668795320
+ 3   -->   32767
+ 4   -->   -668794992
+ 5   -->   32767
+Case 2: 1 ports not reachable from port Ambarli with MNP = 6. 
+Nodes    Level
+ 0   -->   0
+Case 3: 1 ports not reachable from port Balboa with MNP = 1. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -668795320
+ 3   -->   32767
+ 4   -->   -668794992
+ 5   -->   32767
+ 6   -->   -1245119786
+Case 4: 1 ports not reachable from port Chennai with MNP = 7. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1245119786
+ 3   -->   32521
+Case 5: 1 ports not reachable from port Algeciras with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+Case 6: 1 ports not reachable from port Cartagena with MNP = 2. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1245117176
+ 3   -->   32521
+ 4   -->   -668794992
+ 5   -->   32767
+ 6   -->   -668795320
+ 7   -->   32767
+ 8   -->   -668794992
+Case 7: 1 ports not reachable from port Ambarli with MNP = 9. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1245119786
+ 3   -->   32521
+Case 8: 1 ports not reachable from port Chennai with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1245119786
+ 3   -->   32521
+Case 9: 1 ports not reachable from port Alexandria with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1245119786
+ 3   -->   32521
+Case 10: 1 ports not reachable from port Barcelona with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1245119786
+ 3   -->   32521
+Case 11: 1 ports not reachable from port Balboa with MNP = 4. 

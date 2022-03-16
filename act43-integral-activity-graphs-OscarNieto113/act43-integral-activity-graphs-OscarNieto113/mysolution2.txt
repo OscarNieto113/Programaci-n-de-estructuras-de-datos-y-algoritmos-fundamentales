@@ -1,0 +1,110 @@
+Nodes    Level
+ 0   -->   0
+Case 1: 1 ports not reachable from port Antwerp with MNP = 1. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   1359981270
+ 3   -->   32566
+Case 2: 1 ports not reachable from port Ambarli with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   1359981270
+ 3   -->   32566
+Case 3: 1 ports not reachable from port Bandar with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+Case 4: 1 ports not reachable from port Barcelona with MNP = 5. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+Case 5: 1 ports not reachable from port Charleston with MNP = 5. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   1359981270
+ 3   -->   32566
+Case 6: 1 ports not reachable from port Barcelona with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+ 5   -->   32767
+ 6   -->   1359981270
+Case 7: 1 ports not reachable from port Algeciras with MNP = 7. 
+Nodes    Level
+ 0   -->   0
+Case 8: 1 ports not reachable from port Callao with MNP = 1. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+ 5   -->   32767
+ 6   -->   1359981270
+Case 9: 1 ports not reachable from port Bremen with MNP = 7. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+Case 10: 1 ports not reachable from port Chennai with MNP = 5. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+ 5   -->   32767
+Case 11: 1 ports not reachable from port Barcelona with MNP = 6. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   1359981270
+Case 12: 1 ports not reachable from port Charleston with MNP = 3. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+ 5   -->   32767
+ 6   -->   1359981270
+Case 13: 1 ports not reachable from port Callao with MNP = 7. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+ 5   -->   32767
+ 6   -->   1359981270
+Case 14: 1 ports not reachable from port Antwerp with MNP = 7. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   1359981270
+ 3   -->   32566
+Case 15: 1 ports not reachable from port Chennai with MNP = 4. 
+Nodes    Level
+ 0   -->   0
+ 1   -->   1
+ 2   -->   -1053395816
+ 3   -->   32767
+ 4   -->   -1053395488
+ 5   -->   32767
+ 6   -->   1359981270
+ 7   -->   32566
+Case 16: 1 ports not reachable from port Ambarli with MNP = 8. 
